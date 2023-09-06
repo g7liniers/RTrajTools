@@ -1,0 +1,2 @@
+rdimf.distM.ANT <- readRDS("output/distances/antartida/rdimf/RdimF-Eucl-ANT_2023-08-27_12-43-11.rds")
+rdimf.distM.GL <- readRDS("output/distances/groenlandia/rdimf/RdimF-Eucl-GL_2023-08-27_12-43-23.rds")

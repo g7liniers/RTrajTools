@@ -1,0 +1,1 @@
+frechet.distM.GL <- readRDS("output/distances/groenlandia/frechet/Frechet-GL_2023-08-20_06-42-48.rds")

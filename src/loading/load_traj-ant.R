@@ -1,0 +1,1 @@
+btraj.ANT <- readRDS("data/antartida/processed/final/antartida_final_btraj.rds")

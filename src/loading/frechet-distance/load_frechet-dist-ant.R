@@ -1,0 +1,1 @@
+frechet.distM.ANT <- readRDS("output/distances/antartida/frechet/Frechet-ANT_2023-08-20_06-42-39.rds")

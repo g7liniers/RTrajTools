@@ -1,0 +1,1 @@
+btraj.GL <- readRDS("data/groenlandia/processed/final/groenlandia_final_btraj.rds")
